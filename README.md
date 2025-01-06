@@ -36,7 +36,7 @@ Here are some of my notable projects:
 
 ### Connect with Me
 
-- [LinkedIn]( (https://www.linkedin.com/in/tanay-naik-734286250/))
+- [LinkedIn] (https://www.linkedin.com/in/tanay-naik-734286250/)
 - [Codeforces] ((https://codeforces.com/profile/tanaynaik0710))
 - [Codechef] (https://www.codechef.com/users/tannyhill)
 - [Leetcode] (https://leetcode.com/u/Tanay_N/)
