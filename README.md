@@ -31,12 +31,14 @@ Here are some of the technologies I work with:
 
 Here are some of my notable projects:
 
-- [**Project Name**](https://github.com/Tanaynaik07/project-name) - Brief description of the project.
-- [**Another Project**](https://github.com/Tanaynaik07/another-project) - Brief description of the project.
+- [**Project Name**]( (https://enchanting-swan-8e8d4b.netlify.app/)) 
+- [**Another Project**]( (https://legally-three.vercel.app/)) t
 
 ### Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/tanaynaik07/)
-- [Twitter](https://twitter.com/tanaynaik07)
+- [LinkedIn]( (https://www.linkedin.com/in/tanay-naik-734286250/))
+- [Codeforces] ((https://codeforces.com/profile/tanaynaik0710))
+- [Codechef] (https://www.codechef.com/users/tannyhill)
+- [Leetcode] (https://leetcode.com/u/Tanay_N/)
 
 Thanks for visiting my profile! Feel free to reach out if you want to connect or collaborate.
