@@ -31,8 +31,8 @@ Here are some of the technologies I work with:
 
 Here are some of my notable projects:
 
-- [**Project Name**]( (https://enchanting-swan-8e8d4b.netlify.app/)) 
-- [**Another Project**]( (https://legally-three.vercel.app/)) t
+- [**Project Name**]((https://finance-management-54yr.onrender.com/)) 
+ 
 
 ### Connect with Me
 
