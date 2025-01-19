@@ -31,7 +31,7 @@ Here are some of the technologies I work with:
 
 Here are some of my notable projects:
 
-- [**Project Name**]((https://finance-management-54yr.onrender.com/)) 
+- [Finance Management](https://finance-management-54yr.onrender.com/) 
  
 
 ### Connect with Me
